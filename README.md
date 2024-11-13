@@ -36,4 +36,3 @@ Compatibility: While GPU acceleration is recommended, the code can be adapted to
 📄 License
 This project is licensed under the MIT License, allowing open-source usage and contribution.
 
-This README provides a structured outline of your project, with icons for key components and links to relevant resources. Let me know if you’d like any further customization!
